@@ -6,6 +6,8 @@ The code provided here specifically showcases the implementation of NDO on the C
 Contact
 For questions or collaborations, please contact:
 
+Wanting Xiao: xiaowt7@163.com
+
 Kaichen Ouyang: oykc@mail.ustc.edu.cn
 
 Chaoyang Xu: xuchaoyang@zju.edu.cn
