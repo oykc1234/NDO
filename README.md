@@ -5,7 +5,7 @@ Newton Downhill Optimizer (NDO)
 
 This repository contains the source code for the Newton Downhill Optimizer (NDO), a novel metaheuristic optimization algorithm inspired by Newton's Method and enhanced with a downhill strategy based on stochastic processes. The NDO algorithm is designed to tackle complex, high-dimensional, and nonlinear optimization problems, demonstrating exceptional performance in both benchmark tests and real-world applications.
 
-The code provided here specifically showcases the implementation of NDO on the CEC 2017 benchmark test suite, highlighting its ability to achieve state-of-the-art results in global optimization tasks. This work corresponds to our paper titled "Newton Downhill Optimizer: A Mathematically Based Optimization Algorithm for Global Optimization", currently under review at Scientific Reports.
+The code provided here specifically showcases the implementation of NDO on the CEC 2017 benchmark test suite, highlighting its ability to achieve state-of-the-art results in global optimization tasks. This work corresponds to our paper titled "Newton Downhill Optimizer: A Mathematically Based Optimization Algorithm for Global Optimization", currently under review at Biomedical Signal Processing and Control.
 
 Contact
 For questions or collaborations, please contact:
