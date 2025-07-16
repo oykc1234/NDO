@@ -24,8 +24,8 @@ Email: junbolian@qq.com
 Shaowei Gu (School of Transportation Engineering, Central South University, 410000, Changsha, China)
 Email: gswawei@163.com
 
-Yuanjun Liu (Department of Computer, Nanchang Hangkong University, Nanchang 330063, China)
-Email: xbzr@nchu.edu.cn
+Zong Ke (Faculty of Science, National University of Singapore, Singapore 119077)
+Email: a0129009@u.nus.edu
 
 Dedai Wei (College of Economics, Shenyang University, Shenyang 110000, China)
 Email: wdd31212@163.com
